@@ -1,0 +1,50 @@
+html{
+    /*font-family: Arial, Helvetica, sans-serif, 微软雅黑;*/
+}
+
+body{
+    margin: 0;
+    background-color: rgb(236, 236, 236);
+    font-size: 1em;
+    line-height: 1.6;
+}
+
+.bar{
+    height: 6em;
+    background-color: black;
+    /*position:absolute;*/
+    padding: 1em;
+    margin: 0;
+    width: calc(100% - 2em);
+}
+
+header h1{
+    color: white;
+    font-size: 3em;
+    margin-left: 0.5em;
+    margin-top: 0.07em;
+    /*vertical-align: middle;*/
+}
+
+main{
+    background-color: white;
+    width: 60%;
+    margin:0 auto;
+    position:relative;
+    padding: 2em;
+    display: flex;
+}
+
+#first_h2{
+    margin-top: 0em;
+}
+
+code{
+    background-color: rgb(236, 236, 236);
+    padding: 0.2em;
+    font-family: consolas,"Microsoft YaHei";
+}
+
+img{
+    max-width: 100%;
+}
