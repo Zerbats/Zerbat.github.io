@@ -48,3 +48,28 @@ code{
 img{
     max-width: 100%;
 }
+
+#dalaoDeLuogu{
+    height: 20em;
+}
+
+.description{
+    color: lightgray;
+    margin-top: 0em;
+}
+
+.attention{
+    font-weight: 700;
+}
+
+#note{
+    background-color: rgb(236, 236, 236);
+    margin: 1em 2em 1.5em 2em;
+    padding: 1em 1em 1em 2em
+}
+
+.code{
+    background-color: rgb(236, 236, 236);
+    padding: 1em;
+    font-family: consolas,"Microsoft YaHei";
+}
